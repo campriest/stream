@@ -1,8 +1,7 @@
-@media{
+@media(-webkit-playsinline){
 #video {
   display: block;
   width: 100%;
-  -webkit-playsinline: true;
 }
 
 .button-demo {
