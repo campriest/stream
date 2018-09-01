@@ -1,0 +1,10 @@
+#video {
+  display: block;
+  width: 100%;
+}
+
+.button-demo {
+  padding: 0.5em;
+  display: inline-block;
+  margin: 1em auto;
+}
