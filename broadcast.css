@@ -1,4 +1,4 @@
-@media(webkit-video-playable-inline){
+
 #video {
   display: block;
   width: 100%;
@@ -8,5 +8,4 @@
   padding: 0.5em;
   display: inline-block;
   margin: 1em auto;
-}
 }
