@@ -15,13 +15,15 @@ h1 {
 .hidden {
   display: none;
 }
+@media(-webkit-video-playable-inline){
+
 
 #video {
   display: block;
   margin-left: 0%;
   width: 100%;
 }
-
+}
 .button-demo {
   padding: 0.5em;
   display: inline-block;
