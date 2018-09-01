@@ -18,6 +18,6 @@ app.get('/', function (req, res){
 })
 app.get('/view', function (req, res){
   res.sendFile(path.join(__dirname + '/view/view.html'));
-  app.close();
+  res.end();
 })
 console.log("works");
