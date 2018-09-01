@@ -1,4 +1,4 @@
-@media(-webkit-playsinline){
+@media(webkit-video-playable-inline){
 #video {
   display: block;
   width: 100%;
