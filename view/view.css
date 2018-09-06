@@ -13,14 +13,12 @@ h1 {
 }
 
 .hidden {
-  display: inline;
+  display: none;
 }
-
 #video {
   display: block;
   margin-left: 0%;
   width: 100%;
-
 }
 .button-demo {
   padding: 0.5em;
